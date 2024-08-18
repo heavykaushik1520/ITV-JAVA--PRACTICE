@@ -1,6 +1,6 @@
-public class Freequency {
+public class Frequency {
 
-    public static void main()
+    public static void main(String args[])
     {
         int arr[] = {1, 2, 8, 3, 2, 2, 2, 5, 1};
 
