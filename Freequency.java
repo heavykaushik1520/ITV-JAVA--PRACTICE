@@ -22,7 +22,9 @@ public class Freequency {
                 if(arr[i] == arr[j])
                 {
                     count++;
+                    System.out.println(fr[j]);
                     fr[j] = visited;
+
                 }
             }
         }
